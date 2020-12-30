@@ -1,0 +1,5 @@
+0	Pclass_1	0.014443
+1	Pclass_3	0.017628
+2	Title_Mr	0.069238
+3	FsizeD_Small	0.013510
+4	Family_Survival_0.0	0.044240
